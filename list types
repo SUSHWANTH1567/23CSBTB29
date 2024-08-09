@@ -1,0 +1,125 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPapqDJQXxTrzEqhYDUtLVG",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/SUSHWANTH1567/23CSBTB29/blob/main/list%20types\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Implement basic data structures using numpy and pandas\n",
+        "1. Lists\n",
+        "2. Arrays\n",
+        "3. Identify their type using type()\n",
+        "4. Perform mathematical operations on these datasets created - multiplication, division,\n",
+        "poweroff\n",
+        "5. Combine text with Numpy fuction to generate a textual output - ”Addition of Two:\n",
+        "array1 +array 2\n",
+        "6. Implement np.sin(), log(), log2(), np.exp())"
+      ],
+      "metadata": {
+        "id": "KDTf81pZseIW"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 2,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "z-QqvnFJsPTe",
+        "outputId": "3745e6d9-0687-4c48-bf87-01d47052ca28"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "{2: 4, 5: 25, 3: 9, 8: 64, 6: 36}\n",
+            "<class 'dict'>\n"
+          ]
+        }
+      ],
+      "source": [
+        "lst={2:4,5:25,3:9,8:64,6:36}\n",
+        "print (lst)\n",
+        "print(type(lst))"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "lst={12:24,11:22,13:26,14:28}\n",
+        "print (lst)\n",
+        "print(type(lst))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "HyWJ3GXrvoEJ",
+        "outputId": "d3df4af4-6018-45b8-9742-f8309be55b13"
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "{12: 24, 11: 22, 13: 26, 14: 28}\n",
+            "<class 'dict'>\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "lst={10:\"apple\",5:\"banana\",50:\"dragon\"}\n",
+        "print (lst)\n",
+        "print(type(lst))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "I2wV2R8NwF0d",
+        "outputId": "e4c47c15-fcfd-4803-ba4a-6b35e4b991bc"
+      },
+      "execution_count": 4,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "{10: 'apple', 5: 'banana', 50: 'dragon'}\n",
+            "<class 'dict'>\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
