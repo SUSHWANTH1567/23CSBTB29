@@ -7,4 +7,4 @@ https://github.com/kirankumareranki/AIML-2025/blob/main/Lab02-AIML.ipynb
 https://github.com/SUSHWANTH1567/23CSBTB29/blob/main/aiml%20lab5%20%2030-08-2024
 https://github.com/SUSHWANTH1567/23CSBTB29/blob/main/ASSIGNMENT_01.ipynb
 https://github.com/SUSHWANTH1567/23CSBTB29/blob/main/assignment4.ipynb
-https://github.com/SUSHWANTH1567/23CSBTB29/blob/main/assignment_5%2013/09/2024.ipynb
+https://github.com/SUSHWANTH1567/23CSBTB29/blob/main/assignment_5.ipynb
