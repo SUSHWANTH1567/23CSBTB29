@@ -8,3 +8,4 @@ https://github.com/SUSHWANTH1567/23CSBTB29/blob/main/aiml%20lab5%20%2030-08-2024
 https://github.com/SUSHWANTH1567/23CSBTB29/blob/main/ASSIGNMENT_01.ipynb
 https://github.com/SUSHWANTH1567/23CSBTB29/blob/main/assignment4.ipynb
 https://github.com/SUSHWANTH1567/23CSBTB29/blob/main/assignment_5.ipynb
+https://github.com/SUSHWANTH1567/23CSBTB29/blob/main/assignment_6.ipynb
