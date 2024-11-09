@@ -11,3 +11,4 @@ https://github.com/SUSHWANTH1567/23CSBTB29/blob/main/assignment_5.ipynb
 https://github.com/SUSHWANTH1567/23CSBTB29/blob/main/assignment_6.ipynb
 https://github.com/SUSHWANTH1567/23CSBTB29/blob/main/ASSIGNMENT_7.ipynb
 https://github.com/SUSHWANTH1567/23CSBTB29/blob/main/ASSIGNMENT_8.ipynb
+https://github.com/SUSHWANTH1567/23CSBTB29/blob/main/lab_exam_desicisiom_tree.ipynb
